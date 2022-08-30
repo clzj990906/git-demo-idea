@@ -7,5 +7,6 @@ public class hello {
         System.out.println("33333333");
 
         System.out.println("这个代码新增,推到github上");
+        System.out.println("提交并推送到github");
     }
 }
